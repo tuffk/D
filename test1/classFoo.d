@@ -27,4 +27,6 @@ private:
 void main(){
 	Foo foo = new Foo(3, 8);
 	writeln("el valor de x en foo es: ", foo.x," y el de y es: ",foo.gety());
+
+	
 }
